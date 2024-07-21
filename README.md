@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">I am a dedicated Computer Engineer with a strong interest in Software and Embedded Systems Development. With experience in ARM architecture, STM32 microcontrollers, and a variety of programming languages including C, C++, Python, and Java, I have a robust technical foundation. My projects, such as developing a self-driving car model using CNN, implementing a custom RTOS and building Natour website, showcase my ability to tackle complex engineering challenges and innovate within the field.</h5>
+<h3 align="left">I am a dedicated Computer Engineer with a strong interest in Software and Embedded Systems Development. With experience in ARM architecture, STM32 microcontrollers, and a variety of programming languages including C, C++, Python, and Java, I have a robust technical foundation. My projects, such as developing a self-driving car model using CNN, implementing a custom RTOS and building Natour website, showcase my ability to tackle complex engineering challenges and innovate within the field.</h3>
 
 ###
 
@@ -68,8 +68,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/abdu117/abdu117/output/snake.svg" alt="Snake animation" />
 
