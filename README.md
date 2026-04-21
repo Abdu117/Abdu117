@@ -2,7 +2,7 @@
 
 ###
 ### About Me 
-</h4>I am a dedicated Computer Engineer with a strong interest in Software and Embedded Systems Development. With experience in ARM architecture, STM32 microcontrollers, and a variety of programming languages including C, C++, Python, and Java, I have a robust technical foundation. My projects, such as developing a self-driving car model using CNN, implementing a custom RTOS and building Natour website, showcase my ability to tackle complex engineering challenges and innovate within the field.</h4>
+</h4>Computer & Systems Engineering graduate and Master’s student in Artificial Intelligence & Robotics at the University of Padova. Passionate about machine learning, TinyML, embedded systems, and reliable real-world AI. I enjoy building practical systems, solving challenging problems, and continuously learning through projects and research.</h4>
 
 ###
 
